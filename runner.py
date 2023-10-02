@@ -5,3 +5,6 @@ def print_function():
 
 def second_print_function():
     print("second_print")
+
+def third_print_function():
+  print("third_print_function")
